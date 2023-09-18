@@ -1,3 +1,13 @@
+## Part 1: Grading five projects based on the given rubrics
+- <a href="https://github.com/shreyavaidya2311/se-project-g23/blob/main/proj1/Slash_f_Grading.csv">Slash (f) Grading Sheet</a>
+- <a href="https://github.com/shreyavaidya2311/se-project-g23/blob/main/proj1/Dollar_Bot%20Grading.csv">Dollar Bot (D) Grading Sheet</a>
+- <a href="https://github.com/shreyavaidya2311/se-project-g23/blob/main/proj1/WolfTrack3.0%20Grading.csv">Wolf Track 3.0 (p) Grading Sheet</a>
+- <a href="https://github.com/shreyavaidya2311/se-project-g23/blob/main/proj1/Slash_c_Grading.csv">Slash (c) Grading Sheet</a>
+- <a href="https://github.com/shreyavaidya2311/se-project-g23/blob/main/proj1/86NoMore_A_Grading.csv">86 no more (A) Grading Sheet</a>
+
+## Part 2: YouTube Video showing the Running Application (Wolf Track 3.0)
+<a href="https://www.youtube.com/watch?v=4dyQ-rKDXP8">YouTube Link</a>
+
 ## Part 3: An Essay on the Analysis of Wolf Track 3.0 
 In this essay, our aim has been to rigorously analyze a software engineering project, namely ‘Wolf Track 3.0’, an application built for networking and resume analysis. We have attempted to critique and suggest improvements in various verticals, ranging from documentation, to code readability and support. Throughout the essay, we identify aspects of the project which deviate from industry standards or best practices, and subsequently suggest improvements. We implicitly commit to implementing these suggestions in the next phase of this project.
 
