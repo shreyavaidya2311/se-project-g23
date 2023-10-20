@@ -19,7 +19,7 @@ Sr No.,Notes,Points,Evidence
 16,Use of code formatters.,2,
 17,Use of code coverage,3,
 18,Other automated analysis tools,0,
-19,Test cases exist,3
+19,Test cases exist,3,
 20,Test cases are routinely executed,2,
 21,The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up,3,https://github.com/aniketdarp190301/WolfTrack4.0/blob/Group23StableBranch/CONTRIBUTING.md
 22,Issues are discussed before they are closed,2,https://github.com/aniketdarp190301/WolfTrack4.0/issues?q=is%3Aissue+is%3Aclosed
